@@ -1,4 +1,6 @@
-/*editeddfsddlsjffh
+#include <iostream>
+using namespace std;
+using namespace cv;
 #include <QtGui>
 #include <QApplication>
 #include <QInputDialog>
